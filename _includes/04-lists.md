@@ -1,0 +1,3 @@
+- Me gusta jugar
+- Me gusta programar
+- Me gusta la música
